@@ -1,0 +1,8 @@
+@media screen and (max-width: 600px){
+    #fh5co-footer{
+      display: none;
+      right: -12%;
+      top: 580px;
+      width: 450px;
+    }
+  }
